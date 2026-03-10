@@ -18,3 +18,37 @@ This project is a Machine Learning based SMS Spam Detection system built using P
 6. Prediction through Python app
 
 ## 📂 Project Structure
+sms-spam-classifier
+│
+├── app.py # Main application file
+├── model.pkl # Trained ML model
+├── vectorizer.pkl # TF-IDF vectorizer
+├── spam.csv # Dataset used for training
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
+
+
+## 🛠 Technologies Used
+- Python
+- Scikit-learn
+- NLTK
+- Pandas
+- NumPy
+
+## ▶️ How to Run the Project
+
+1. Clone the repository
+2. Navigate to the project folder
+3. Install dependencies   
+4. Run the application
+
+## 📊 Dataset
+The dataset contains labeled SMS messages classified as **spam** or **ham**.
+
+## 📌 Future Improvements
+- Deploy using Streamlit
+- Improve model accuracy
+- Add deep learning based NLP models
+
+## 👨‍💻 Author
+Created as a Machine Learning project for spam detection.
