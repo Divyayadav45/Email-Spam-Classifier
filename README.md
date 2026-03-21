@@ -37,3 +37,23 @@ It leverages **Natural Language Processing (NLP)** techniques along with **TF-ID
 ---
 
 ## 📂 Project Structure
+sms-spam-classifier/
+│
+├── app.py # Main application
+├── model.pkl # Trained model
+├── vectorizer.pkl # TF-IDF vectorizer
+├── spam.csv # Dataset
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
+
+
+---
+
+## 🛠 Tech Stack
+- 🐍 Python  
+- 🤖 Scikit-learn  
+- 📚 NLTK  
+- 📊 Pandas  
+- 🔢 NumPy  
+
+---
